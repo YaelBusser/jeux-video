@@ -1,7 +1,7 @@
 # Projet pour les premières années en étude d'informatique Campus Academy Nantes & Angers
 
 ## Contexte
-
+	OMMMMG LE CONTEXTE !!! ça tourne mal
 ## Plan
 
 ### technique
